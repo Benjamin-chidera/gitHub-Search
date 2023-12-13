@@ -1,6 +1,5 @@
 /* eslint-disable react/jsx-no-target-blank */
-import React from "react";
-import "../styles/card.css";
+import "../styles/Card.css";
 import { useGlobalContext } from "../hooks/useGlobalContext";
 import { MdBusiness, MdLocationOn, MdLink } from "react-icons/md";
 
